@@ -24,21 +24,7 @@ public class Main {
 
 
     //f(n) = f(n-1) + f(n-2) //
-    public static void fibonacciNumber(int number) {
-        long[] arrays = new long[number];
-        arrays[0] = 0;
-        arrays[1] = 1;
-        for (int i = 2; i < number; i++) {
-            arrays[i] = arrays[i - 1] + arrays[i - 2];
 
-        }
-        for (long value : arrays) {
-            System.out.println( " Fibonacci Number: " + value);
-
-        }
-
-
-    }
 
     public static void letterCount(String text) {
 
