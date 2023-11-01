@@ -1,0 +1,29 @@
+
+K
+java:S1066Ÿ"/Merge this if statement with the enclosing one.(ÂÒÓ”ùÿÿÿÿ
+X	java:S125"<This block of commented-out lines of code should be removed.(Ÿ š¨8ŒÚ‹Î¸1
+@	java:S106&"+Replace this use of System.out by a logger.(üŸ™Ë
+E	java:S106'"+Replace this use of System.out by a logger.(áìâùùÿÿÿÿ
+E	java:S1067"+Replace this use of System.out by a logger.(¥‘ß„ùÿÿÿÿ
+Y
+java:S1854R">Remove this useless assignment to local variable "character1".(©–Ä‹ıÿÿÿÿ
+J
+java:S1481R"/Remove this unused "character1" local variable.(©–Ä‹ıÿÿÿÿ
+O
+java:S2864W"4Iterate over the "entrySet" instead of the "keySet".(š«‚ıÿÿÿÿ
+E	java:S106X"+Replace this use of System.out by a logger.(¥şı•ûÿÿÿÿ
+@	java:S106b"+Replace this use of System.out by a logger.(ã×ÖÏ
+E	java:S106h"+Replace this use of System.out by a logger.(£ñ¾–ÿÿÿÿÿ
+A	java:S106‰"+Replace this use of System.out by a logger.(î·­¤
+F	java:S106Š"+Replace this use of System.out by a logger.(ÜÖ£ìüÿÿÿÿ
+A	java:S106¤"+Replace this use of System.out by a logger.(Ş³õ
+A	java:S106¦"+Replace this use of System.out by a logger.(Æ¾âµ
+<
+java:S1659¬"%Declare "number2" on a separate line.(â¹‰˜
+A	java:S106»"+Replace this use of System.out by a logger.(Òà´Ç
+A	java:S106¿"+Replace this use of System.out by a logger.( Ú
+F	java:S106Á"+Replace this use of System.out by a logger.(¿´ÒØıÿÿÿÿ
+X
+java:S1128"=Remove this unused import 'java.time.chrono.ChronoLocalDate'.(‘Ë¡°ÿÿÿÿÿ
+U
+java:S1128":Remove this unused import 'java.util.concurrent.Callable'.(¾×¶îûÿÿÿÿ

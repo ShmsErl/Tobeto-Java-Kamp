@@ -1,0 +1,29 @@
+
+R
+java:S1066Ÿ"/Merge this if statement with the enclosing one.(ÂÒÓ”ùÿÿÿÿ8÷’·¸1
+]	java:S125"<This block of commented-out lines of code should be removed.(ÍïÑûÿÿÿÿ8ø ¡·¸1
+G	java:S106&"+Replace this use of System.out by a logger.(üŸ™Ë8²÷’·¸1
+L	java:S106'"+Replace this use of System.out by a logger.(áìâùùÿÿÿÿ8²÷’·¸1
+L	java:S1067"+Replace this use of System.out by a logger.(¥‘ß„ùÿÿÿÿ8³÷’·¸1
+`
+java:S1854R">Remove this useless assignment to local variable "character1".(©–Ä‹ıÿÿÿÿ8³÷’·¸1
+Q
+java:S1481R"/Remove this unused "character1" local variable.(©–Ä‹ıÿÿÿÿ8µ÷’·¸1
+V
+java:S2864W"4Iterate over the "entrySet" instead of the "keySet".(š«‚ıÿÿÿÿ8µ÷’·¸1
+L	java:S106X"+Replace this use of System.out by a logger.(¥şı•ûÿÿÿÿ8¶÷’·¸1
+G	java:S106b"+Replace this use of System.out by a logger.(ã×ÖÏ8¶÷’·¸1
+L	java:S106h"+Replace this use of System.out by a logger.(£ñ¾–ÿÿÿÿÿ8·÷’·¸1
+H	java:S106‰"+Replace this use of System.out by a logger.(î·­¤8¸÷’·¸1
+M	java:S106Š"+Replace this use of System.out by a logger.(ÜÖ£ìüÿÿÿÿ8¸÷’·¸1
+H	java:S106¤"+Replace this use of System.out by a logger.(Ş³õ8º÷’·¸1
+H	java:S106¦"+Replace this use of System.out by a logger.(Æ¾âµ8º÷’·¸1
+C
+java:S1659¬"%Declare "number2" on a separate line.(â¹‰˜8»÷’·¸1
+H	java:S106»"+Replace this use of System.out by a logger.(Òà´Ç8½÷’·¸1
+H	java:S106¿"+Replace this use of System.out by a logger.( Ú8¾÷’·¸1
+M	java:S106Á"+Replace this use of System.out by a logger.(¿´ÒØıÿÿÿÿ8¿÷’·¸1
+_
+java:S1128"=Remove this unused import 'java.time.chrono.ChronoLocalDate'.(‘Ë¡°ÿÿÿÿÿ8À÷’·¸1
+\
+java:S1128":Remove this unused import 'java.util.concurrent.Callable'.(¾×¶îûÿÿÿÿ8Á÷’·¸1
