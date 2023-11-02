@@ -10,17 +10,16 @@ import java.util.concurrent.Callable;
 public class Main {
     public static void main(String[] args) {
 
-        isAmicablePair(1184,1210);
+
         //isAllUniq("sehmus");
         //isAnagram("sil  e  nt","lis ten");
-       //amstrong(153);
+        //amstrong(153);
         // fibonacciNumber(100);
-       // letterCount("T  ob e to ");
+        // letterCount("T  ob e to ");
         //perferctNumber();
 
 
     }
-
 
 
     //f(n) = f(n-1) + f(n-2) //
@@ -28,75 +27,8 @@ public class Main {
 
 
 
-    public static void perferctNumber() {
-        int count = 0; // Bulunan mükemmel sayıların sayısı
-        long number = 2; // Formülde kullanılan sayının başlangıç değeri
-
-        System.out.println(" 10 Perfect Number :");
-
-        while (count < 10) {
-            long perfect = ((1L << number) - 1) * (1L << (number - 1));
-
-            if (isPerfect(perfect)) {
-                System.out.println(perfect);
-                count++;
-            }
-            number++;
-        }
-
-
-
-
-    }
-    // Bir sayının mükemmel olup olmadığını kontrol eden fonksiyon
-    public static boolean isPerfect ( long n){
-        long sum = 1; // 1 her zaman bölen olarak kullanılır
-        for (long i = 2; i <= Math.sqrt(n); i++) {
-            if (n % i == 0) {
-                sum += i;
-                if (i != n / i) {
-                    sum += n / i;
-                }
-            }
-        }
-        return sum == n;
-    }
-
-    // Girilen iki farklı kelimenin aynı harflere sahip fakat farklı kelimelerden oluşan olup olmadığını bulma
-
-
-
-
-
-    public static void isAmicablePair(int... numbers){
-        int number1 = 0 , number2 = 0;
-
-        int[] values = new int[]{number1,number2};
-        for(int i = 0 ; i < numbers.length ; i++){
-            int total = 0;
-            for(int j = 1 ; j < numbers[i]; j++){
-                if(numbers[i] % j == 0){
-                    total +=j;
-                }
-            }
-            values[i] = total;
-
-        }
-        for (int item :values) {
-
-            System.out.println(item);
-
-        }if(numbers[0] == values[1] && numbers[1] == values[0]){
-
-            System.out.println("This numbers is AMİCABLE PAİR");
-        } else {
-            System.out.println("This numbers is NOT AMİCABLE PAİR");
-        }
-
-
-    }
-
 }
+
 
 
 
