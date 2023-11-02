@@ -14,7 +14,7 @@ public class Fibonacci {
 
             long[] arrays = new long[number];
             if(number < 2 ){
-                System.out.println("İlk İki Fibonacci sayısı : " + 0 + " "  + 1);
+                System.out.println("first two fibonacci numbers : " + 0 + " "  + 1);
             }
             else {
                 arrays[0] = 0;
