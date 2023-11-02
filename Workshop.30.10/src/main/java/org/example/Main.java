@@ -65,26 +65,8 @@ public class Main {
     // Girilen iki farklı kelimenin aynı harflere sahip fakat farklı kelimelerden oluşan olup olmadığını bulma
 
 
-    public static void isAllUniq(String text) {
-        char[] character = text.replace(" ", "")
-                .toLowerCase().toCharArray();
 
-        int result = 0;
-        for (int i = 0; i < text.length(); i++) {
 
-            for (int j = 0; j < text.length() - 1; j++) {
-                if (character[i] == character[j]) {
-                    if (i != j) result++;
-                }
-            }
-        }
-        if (result != 0) {
-            System.out.println("This string is UNIQUE");
-        } else {
-            System.out.println("This string is NOT UNIQUE");
-        }
-
-    }
 
     public static void isAmicablePair(int... numbers){
         int number1 = 0 , number2 = 0;
