@@ -7,3 +7,15 @@ g
 7src/main/java/org/example/amstrongNumber/Armstrong.java,2\8\288257a45f2c5624b490fd1a41f049f938905618
 g
 7src/main/java/org/example/amstrongNumber/Fibonacci.java,0\2\0252113f368c3608b02603bf16e0f5186d50f261
+b
+2src/main/java/org/example/fibonacci/Fibonacci.java,f\6\f65c04d1b23b961826ccd914b78b409404ab7ecc
+_
+/src/main/java/org/example/anagrams/Anagram.java,4\0\40ee702d82bab9b946525c3ecfb8e6ff2b0a05ce
+j
+:src/main/java/org/example/UniqCharacter/UniqCharacter.java,6\5\659a53d6d524d0800fcee35d9f95b88a994ae964
+i
+9src/main/java/org/example/amicablePairs/AmicablePair.java,2\4\2406932336776b1f4a500def0953554ad26d7236
+j
+:src/main/java/org/example/perfectNumber/PerfectNumber.java,f\5\f573c392add37a7f3917ae5d3724a9ba98345cbb
+l
+<src/main/java/org/example/CharacterCount/CharacterCount.java,6\0\60bef20a1722a5371ff0a0755c67f7fb11c469a5

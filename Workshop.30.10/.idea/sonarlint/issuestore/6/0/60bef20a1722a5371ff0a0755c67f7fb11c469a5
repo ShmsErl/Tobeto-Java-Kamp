@@ -1,0 +1,13 @@
+
+`
+java:S1854 ">Remove this useless assignment to local variable "character1".(©–Ä‹ıÿÿÿÿ8˜¿÷¸1
+E
+java:S1659"#Declare "value" on a separate line.(Ó¤·øÿÿÿÿ8Ùê¸ø¸1
+G	java:S106"+Replace this use of System.out by a logger.(ÕÌÏæ8›¿÷¸1
+Q
+java:S1481 "/Remove this unused "character1" local variable.(©–Ä‹ıÿÿÿÿ8¿÷¸1
+V
+java:S2864%"4Iterate over the "entrySet" instead of the "keySet".(š«‚ıÿÿÿÿ8¿÷¸1
+L	java:S106&"+Replace this use of System.out by a logger.(¥şı•ûÿÿÿÿ8Ÿ¿÷¸1
+L	java:S106)"+Replace this use of System.out by a logger.(ç‘ë®üÿÿÿÿ8Ÿ¿÷¸1
+L	java:S106*"+Replace this use of System.out by a logger.(æˆ†Ûüÿÿÿÿ8Ÿ¿÷¸1

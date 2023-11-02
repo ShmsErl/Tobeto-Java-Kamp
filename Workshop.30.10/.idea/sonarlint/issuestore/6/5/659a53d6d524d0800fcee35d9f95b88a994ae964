@@ -1,0 +1,12 @@
+
+Q
+java:S1066"/Merge this if statement with the enclosing one.(ÂÒÓ”ùÿÿÿÿ8 Èù¸1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Çµí‘8½ Èù¸1
+L	java:S106"+Replace this use of System.out by a logger.(ªÀ¡ûÿÿÿÿ8Á Èù¸1
+G	java:S106"+Replace this use of System.out by a logger.(Ş³õ8Â Èù¸1
+G	java:S106"+Replace this use of System.out by a logger.(Æ¾âµ8Ã Èù¸1
+L	java:S106""+Replace this use of System.out by a logger.(ç‘ë®üÿÿÿÿ8Ã Èù¸1
+L	java:S106#"+Replace this use of System.out by a logger.(æˆ†Ûüÿÿÿÿ8Ã Èù¸1
+€
+java:S1157&"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(‚¹8Ã Èù¸1
