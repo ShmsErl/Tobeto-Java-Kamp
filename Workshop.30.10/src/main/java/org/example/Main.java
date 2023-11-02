@@ -26,37 +26,7 @@ public class Main {
     //f(n) = f(n-1) + f(n-2) //
 
 
-    public static void letterCount(String text) {
 
-
-        //Klavyeden alınan metnin içerisindeki her bir harfin sayısını veren program
-
-        String value = text.toLowerCase().replace(" ", "");
-
-            Map<Character, Integer> list = new TreeMap<>();
-            char[] character = value.toCharArray();
-
-        for (int i = 0; i < value.length(); i++) {
-
-            int sayac = 0;
-            for (int j = 0; j < value.length(); j++) {
-
-                if (character[i] == character[j]) {
-                    sayac++;
-                }
-            }
-
-             Character character1 = character[i];
-            list.put(character[i], sayac);
-
-        }
-
-        for (Character key : list.keySet()) {
-            System.out.println("Key: " + key + ", Value: " + list.get(key));
-        }
-
-
-    }
 
     public static void perferctNumber() {
         int count = 0; // Bulunan mükemmel sayıların sayısı

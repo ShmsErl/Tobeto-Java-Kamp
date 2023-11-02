@@ -1,4 +1,4 @@
-package org.example.amstrongNumber;
+package org.example.fibonacci;
 
 import java.util.Scanner;
 
