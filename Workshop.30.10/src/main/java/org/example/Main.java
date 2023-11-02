@@ -63,26 +63,7 @@ public class Main {
     }
 
     // Girilen iki farklı kelimenin aynı harflere sahip fakat farklı kelimelerden oluşan olup olmadığını bulma
-    public static void isAnagram(String text1, String text2){
-       char[] word1 =  text1.toLowerCase().replace(" ", "" ).toCharArray();
-       char[] word2 = text2.toLowerCase().replace(" ", "").toCharArray();
-        Arrays.sort(word1);
-        Arrays.sort(word2);
-       boolean result = Arrays.equals(word1,word2);
 
-        if (result) {
-            System.out.println(text1.replace(" ","") + " Anagramıdır " + text2.replace(" ", ""));
-        } else System.out.println(text1.replace(" ","") + " Anagramı Değildir " + text2.replace(" ", ""));
-
-
-
-
-
-
-
-
-
-    }
 
     public static void isAllUniq(String text) {
         char[] character = text.replace(" ", "")
