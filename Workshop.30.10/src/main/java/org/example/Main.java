@@ -11,23 +11,29 @@ public class Main {
     public static void main(String[] args) {
 
 
-        //isAllUniq("sehmus");
-        //isAnagram("sil  e  nt","lis ten");
-        //amstrong(153);
-        // fibonacciNumber(100);
-        // letterCount("T  ob e to ");
-        //perferctNumber();
 
 
     }
 
 
-    //f(n) = f(n-1) + f(n-2) //
 
 
 
 
-}
+
+
+
+
+
+
+    }
+
+
+
+
+
+
+
 
 
 
